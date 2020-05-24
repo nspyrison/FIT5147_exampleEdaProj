@@ -1,0 +1,414 @@
+﻿,"BAIJAL, SHIVANG","FORNARINO, DANIEL CLEMENT","GOYAL, AKASH","GUPTA, SAURAV","KASTURI, SAI SRUSHTI","KHELE, ADITYA","KOLI, NIMISH RAJAN","LERTLAOKUL, THANATCHA","LI, ZEFENG","LIN, LIHUI","NABBEN, BASTIAAN JACQUES THEO","REN, ZICHANG","WANG, YUXUAN","YANG, YUNCHENG","YIN, FENGLIN","ZHANG, RUIJUAN","ZHANG, ZEHUA","ZHAO, ZHONGJING"
+,30871018,26908484,30749964,31112943,31521908,31237711,31405940,29945178,28733983,28711009,31324088,30080193,26372940,30170427,29151430,31328865,26557614,30892023
+Data checking and wrangling,,,,,,,,,,,,,,,,,,
+Appropriate checking for errors in data,2,2,2,1,1.5,1,0.5,2,2,0,2,2,2,2,0.5,0,2,2
+Appropriate cleaning and reformatting,2,2,2,2,2,2,2,2,2,1,2,2,2,2,1,0,2,1.5
+Managed to get data into R or Tableau,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1
+SubTotal,5,5,5,4,4.5,4,3.5,5,5,2,5,5,5,5,2.5,0,5,4.5
+Data exploration,,,,,,,,,,,,,,,,,,
+Completeness/thoroughness,5,4,2.5,3,3,2.5,3.5,4,3,2,4,2,4.5,3.5,3.5,0,4.5,4
+Use of appropriate visualisations and/or analytical measures,3.5,5,4,4.5,3,3,4,4.5,2,3,0.5,3.5,3.5,4,3.5,0,5,3
+SubTotal,8.5,9,6.5,7.5,6,5.5,7.5,8.5,5,5,4.5,5.5,8,7.5,7,0,9.5,7
+Degree of difficulty (starting at 0),,,,,,,,,,,,,,,,,,
+"Data collection (e.g. number of data source, data size, n attributes, data type)",2,3,2,2,2,3,1,2,1,1,1,2,2,3,1.5,0,2,2
+Data scraping,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Advanced wrangling / Process missing/error data (e.g. interpolation, why drop)",3,3,3,2,1,1.5,1,0,1,0,0,1,1,2,0,0,2,0.5
+Visualisation complexity,1.5,0,1,1,0,1,0,0.5,0,0,0,1,2,1.5,1,0,2,1
+Insightful conclusion,0,3,1,2,0.5,1,2,2,1,0.5,0,1.5,0,0,2.5,0,0.5,1
+"Advanced analysis / Statistical test (e.g. ANOVA, t-test) and analytics (clustering, aggregation), non-linear model fitting",0,0,1,0,0,0,0,1,0,0.5,0,0,0,0.5,0,0,1.5,0
+Depth of Exploration,1,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0
+Implementation complexity (visualisation tools),2,1,1.5,3,0,0,0,1,1,0,1,2.5,3,2,2,0,2.5,1
+Other difficult things,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,,0.5
+SubTotal,9.5,10,9.5,10,6.5,6.5,4,8.5,4,4,4,8,8,9,7,0,10.5,6
+Written Report,,,,,,,,,,,,,,,,,,
+"Quality of writing, referencing, images, logical structure (follows suggested format)",1.5,1,1.5,1.5,1.5,1.5,1.5,1.5,1,1.5,1,1.5,1.5,1,1.5,0,1.5,1.5
+"Completeness:
+(0.5) Data Wrangling: Description of the data sources with links if available, the steps in data wrangling including all cleaning/transformations you needed to
+do. What tools did you use?
+(0.5) Introduction: Problem description, question and motivation
+(0.5) Data Wrangling: Description of the data sources with links if available, the steps in data wrangling including all cleaning/transformations you needed to
+do. What tools did you use?
+(0.5) Data Checking: What checks did you perform on the data, what errors did you find and how did you correct them? What tools did you use?
+(1) Data Exploration: Description of the data exploration process with details of the statistical tests and visualisations you used and what you discovered. What tools did you use? 
+(1) Data Exploration: Description of the data exploration process with details of the statistical tests and visualisations you used and what you discovered. What tools did you use? 
+(0.5) Conclusion: Summarise what you learnt from the data and how this answered (or didn’t) your original question. 
+(0.5) Reflection: Briefly describe what you learnt in this project and what in hindsight you might have done differently",3.5,3.5,3,3.5,3.5,3.5,3.5,3,3,3,3.5,3.5,3.5,3.5,3.5,0,3.5,3.5
+Subtotal,5,4.5,4.5,5,5,5,5,4.5,4,4.5,4.5,5,5,4.5,5,0,5,5
+Total mark out of 33,28,28.5,25.5,26.5,22,21,20,26.5,18,15.5,18,23.5,26,26,21.5,0,30,22.5
+Late penalty 2% per day (no penalty for the first 24h after due date) INPUT NUMBER OF DAY,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Late penalty mark,0,0,0,0,0,0,0,0,0,0.62,0,0,0,0,0,0,0,0
+Final Mark (out of 100) **Upload this mark in the Moodle,84.85,86.36,77.27,80.3,66.67,63.64,60.61,80.3,54.55,46.35,54.55,71.21,78.79,78.79,65.15,0,90.91,68.18
+Grade,HD,HD,D,HD,C,C,C,HD,P,N4,P,D,D,D,C,N1,HD,C
+Feedback,,,,,,,,,,,,,,,,,,
+Feedback - Data checking and wrangling,"While your explanation went into a lot of detail, I had to take a look at the dataset and data key (included in the Kaggle link which, by the way, is broken in your report) after being confused by the definitions of match and acceptance rate. I think you could have stood to better define these two metrics (since they're fairly important in your analysis), as it appears that acceptance rate, based on the ""dec_o"" variable, is simply the proportion of instances whereby a participant stated they would go for a second date, whereas match rate, based on the ""match"" variable, is the propotion of instances whereby BOTH participants in the same interaction said they wanted a second date.
+
+A very minor note is that I am a bit cautious about the coding and correction of career values (such as the use of ""OTHER"" for where it should've been something like ""NOT SPECIFIED""), these decisions in what gets labelled what are inherently subjective anyway, and can only really be solved through double coding (whereas you only have yourself).","Super well documented, not much to say other than good work!","Very thorough, well done.","Did you check all other columns as well? Even if there weren't any issues, it is still prudent to state that you've checked for other issues such as mispelled countries and erroneous show lengths.","While it was good that you checked for errors and found the incorrect values, it would have been prudent to make sure that these new values are consistent with other similar values for the specific airline, rather than making the assumption that it is due to the misplaced decimal point.","Collecting the data the way you did is not technically data scraping, but moreso robotic process automation, as all you're doing is downloading existing datasets automatically. That said, I appreciate you automating this process as there are quite a lot of datasets to download and manage.
+
+While the data may look clean, you need to check to make sure that the values themselves have no errors in them. For instance, if there were any values which were disproportionately high/low. Also it seems that you manually fixed many of these errors, it would be more ideal to check for these issues using something like R where it is less prone to user error.","Did you check the other columns as well? Such as if there are any ratings above 5 or below 0, or if any apps had negative prices, etc. Additionally, what did you do with the apps having more than one genre? You've identified it as an error but don't actually do anything about it.","Very comprehensive, well done.","Well done, although you don't need to (nor should you) delete columns during data wrangling, you're losing some flexibility during your analysis where you can otherwise just ignore the column anyway.","You give very little information about your data wrangling and checking process. It's not clear how you merged the four datasets together (if at all), and there's no mention of any checking for errors beyond missing values.","Very detailed and thorough, well done.","Very detailed, well done.","Looks good, although these frequency tables (aggregation) is usually done throughout the exploration process rather than during data wrangling, however I understand why you put it earlier in the report.","Very detailed, and it's quite clear that you had to process through a lot of data (trying to initially work with 146 million rows is quite a feat!).","I assume that by deleting columns with missing values, you meant that you only keep the years in which all countries have data. You need to specify this more clearly because right now it looks as though you've just deleted columns at a whim.
+
+Your imputation of missing values is also questionable. It seems as though you've just used the same average value over and over again wherever there was missing data, which is problematic since it can heavily skew your perception of the data when you begin to visualise it. It's much safer just to leave these values blank, as for the purpose of your analysis you can make do with this missing data.
+
+You also shouldn't be using raw GDP in the first place. As you mention in the data checking, the values of GDP are too large, but you typically solve this by normalising based on capita (hence GDP per capita), rather than using a log scale.
+
+Lastly, while what you've done to find outliers is okay, you should also be looking for potential inconsistencies in the data. So for instance, look to see if there are any sudden changes values over time (similar to Programming Exercise 1), or if there are any outright incorrect values in the data (e.g., negative unemployment rates).",,"Very good, nothing to comment on here.","Did you manually use Google Maps to get the coordinates of each and every pedestrian signal in NYC? That would've been painful to do.
+
+Otherwise, it seems as though your data wrangling was done well, although I don't understand why exactly you're merging the columns about pedestrians injured/killed into a single column. By doing this, you're essentially reducing the amount of options you have to explore and ultimately hurting your analysis."
+Feedback - Data exploration,"Perhaps caused by the issue I mentioned in the previous criteria, the conclusions you draw in Section 1-a are a bit self-evident, in that match rate would naturally be lower than acceptance rate since it requires both participants to say yes. In addition, you've missed what I feel is the most profound finding here: that dates involving engineers have a lot of ""rejections"" as the other party did not accept which would've otherwise resulted in a match. In short, your visualisations were good for answering your question, although some deeper conclusion would've worked wonders.
+
+I don't think Fig 10 (which is a scatterplot matrix) does what you think it does, and I have many questions about it too:
+- What does each point represent? If each one is is a row in the dataset (and I imagine so due to the large number of points)?
+- How do you have many data points for match/acceptance rate? As you originally state, these provide an ""aggregated insight for the whole population"", so I don't understand how you have hundreds of these values as compared to the dozen or so rates for occupation (i.e., what are you aggregating by when the original data is a boolean value?)
+- All other scatterplots that don't include match/acceptance rate describe perceived characteristics of specific individuals, and don't say anything about the likelihood of getting a match. So for example, a very high positive correlation between Attractiveness/Fun and decision making only tells me that those who are perceived to be good decision makers are also perceived to be attractive and fun. Using colour to show which points were or were not matches could've solved this
+
+Fig 12 is good and very clearly shows what you've explained (including the fact that there is very little data for higher age gaps)
+
+Fig 14 and its insights are actually very interesting, although one complaint is that High Medium and Low are technically ordered in that way, so it's miseeading for the matrix to show High -> Low -> Medium.
+
+Once again, I feel like you've missed an opportunity with Section 2-g, as I'm suprised by the high acceptance for those looking for a serious relationship, where in truth you'd expect those who are serious to also be fairly picky with who they accept.","Question 1 is answered quite well, although much of the analysis revolves around state borders and high-density postcodes. While it would require additional datasets, considerations into the population and/or economic activity in given regions could result in a much more comprehensive analysis that goes beyond simply just funding places where there's no existing exposures.
+
+Overall, while much of your analysis was basic and simple, the fact that you've situated your analysis in the context of a practical application (i.e., a bank) makes your insights much more impactful and interesting to read.","Section 4.1 didn't technically need to use a choropleth map as all you have done is compare raw counts of countries without much regard of which region they are in. While what you had is still acceptable, you should have also considered geospatial characteristics such as there being very little movies made in Africa, or that Western Europe makes a lot of movies but not Eastern Europe.
+
+For Section 4.2, I feel that your visualisations in the appendix paint a more accurate picture of the overall dataset, unless the goal was to specifically explore these 60 minute intervals (e.g., short films vs ""epics"").
+
+For Section 4.4, using something like a line chart (even though it is not time series) with colour encoding would allow you to consider many more genres rather than just the top 3 (which is already somewhat chosen arbitrarily). Based off what you have, you focused your analysis a lot on the discrepency of number of votes, rather than differences in ratings between age groups and genres (the actual purpose of the question). There are still remaining subquestions such as which genre was consistently rated the highest/lowest, and what scores did different age groups tend to give (looks like 45+ gives lower socres than the rest).
+
+For Section 4.5, is there a reason why you picked the specific actors/actresses that you did? Picking such a small selection is not only very anecdotal, but also prone to a lot of personal bias when picking these examples. For example, someone who is famed for playing old looking characters (e.g., Sir Ian McKellen) is very different from a child actor who fell out of the limelight soon after.","Your choices of visualisations for question 1 are questionable. While you've created the choropleth maps, it is impossible to identify differences between countries, nor do you more thoroughly consider the geographical location of these countries (e.g., which regions rose to prominence in certain decades?). The bubble chart is a ""cool"" visualisation, but isn't particularly useful for analysis, and you don't go into much detail beyond which countries are new in Fig 13. Most notably is that you don't seem to actually filter by decade, despite having done the work for it, whereby you could have explored how the map changes over time using an animation or slider.
+
+Question 2 is actually quite well done and insightful.
+
+Question 3 was also done well, although the bar charts could have been shown using a stacked bar chart to make it easier to compare between genres. Additionally, it would have been very interesting to drill down on certain parts of the bar chart for further analysis. For example, what types of movies are in the 12% of Strong Parental Advisory and Adult rated shows in the Kids genre?","Avoid using a discrete colour palette for what is essentially continuous data for your temperature data, as it's potentially misleading and causes a lot of confusion.
+
+Your explanation in the first question doesn't really seem to explicitly address any of the bar charts you've created. Particularly, the second bar chart shows passengers between different Australian cities, which doesn't relate to your analysis on people travelling in and out of Australia. The third bar chart seems to be a more ""advanced"" version of the first one, except that it seems to somehow include information about different years which once again, you don't refer to. The bar charts themselves are also somewhat confusing since they appear to be stacked bar charts, but because of the colour scale being used for temperature, you can't actually see each part of the stack.
+
+The bar chart at the start of question 2 is good, but there is a missed opportunity to consider the data in terms of its geospatial characteristics. That is, does the distance from Australia matter regarding where people visit from? Is there a disproportionate number of visitors from regions such as North America? Are these visitors from the northern/southern hemisphere (escaping the cold) or near the equator where there is no seasonality?
+
+Minor nitpick: ""It is evident that air travel is the most common means of international transport."" is an obvious statement for an island country in the modern era.
+
+The first half of question 3 is good, but it would have been better to use an area chart to compare against (non)-Australian airlines to better see the proportion that both make up. You end the second half of the question with a whimper. Are these freight/mail services being run by Australian or non-Australian airlines? Were there any anomalies whereby lots of mail came in from a specific country but not passengers (and vice versa)?
+","I understand that there is limited page space, but please make sure that visualisations such as Figure 6 are fully visible and are not cuf off. It would have been better to either use a stacked bar chart, or faceted by transaction type, so that it is possible to see all of them at once, and to more easily compare them side by side.
+
+I don't see how number of holidays is proportional to transactions at ATMs by debit cards. There is a huge drop in holidays between May to July, but number of transactions in this period appears to be higher than January to March. Putting these two on the same chart (as you did for Figure 7) may have made this comparison much easier.
+
+I'm not a fan of using separate y-axes scales for similar values in Figures 7 and 8, as they're very misleading. This is particularly because the two values are similar enough where they can be directly compared against each other (i.e., number of cards issued). In other contexts it may be fine to use these two separate scales, such as when comparing GDP versus life expectancy, which are both inherently different from another such that there is no confusion.
+
+The packed bubble charts in Figures 9 and 10 are not a good choice for analysis. They may be pretty for presentation, but are difficult to derive insights from (the purpose of your report). Bar charts would have given you the same information and a lot more, such as easily comparing the the values of the smaller banks, or more confidently stating the ranking of banks. Moreover, knowing the names of these banks aren't particularly useful and don't show anything that a sort by -> highest to lowest on Excel can answer. Plotting the proportion of debit vs credit cards for each bank would more clearly show you how much of which each bank is specialising in, or if banks as a whole do a mix of both.
+
+I think you missed the most fascinating conclusion from this analysis: that India has strong a cash-based society as many people rely on ATMs to get cash for their purchases rather than just using EFTPOS in the first place.","While your explanation of the first question is good, the visualisation used is not particularly great. You don't need to double encode the number of installs since the position of the circle already communicates well enough. The use of the diverging colour scale for Size is really confusing, whereby you should use a sequential colour scale instead (or use the circle size for this!).
+
+Your second question would have been better suited with a faceted bar chart instead of separate bar charts. You also don't seem to mention that there are only three applications that are rated Adult, meaning that there is not enough data to make proper observations in that area. Lastly, the choice to suddenly switch to a line chart in Fig. 11 is an interesting choice to say the least.
+
+The first half of question 3 is good, although it would have been good to also show these ""junk"" apps but colour these separately from the ""actual"" apps. This would be to see if the less downloaded apps are priced really highly or not.
+
+Fig. 13 and 14 may be better off as bubble charts instead, using the size of the bubble to signify number of installs or download size. RIght now having to rely on the label is difficult. The insights themselves are somewhat fine, but it's odd to focus only on two genres and not consider all of them (using a faceted scatterplot for instance).","While it was great that you calculated the statistic for the most common conditions for crashes, it's not too surprising since most people would be driving during the day (i.e., business hours) and when the weather is dry and fine (i.e., nice day to go out). This also biases your data since it's not technically correct to say that since most crashes occur during the day it is safer to drive at night, as there are far more people driving during the day.
+
+The analysis in Figures 12 and 13 are really well done, but it would be good to visually represent this 90% of crashes in fine weather aspect, as I was trying to look for this in Figure 12 and not Figure 13.
+
+Is there a reason why there are so little points shown in your scatterplots? Your original dataset did have 63.9k rows after all. If the scatterplots do indeed show all of these rows, it would be good to have either jittered the points or maybe even used another visualisation like a heat map.
+
+You had the right idea in Figure 15, however this is an instance where the outlier around the speed limit of 10 can and should be removed, since it would have a direct impact on your linear regression analysis.
+
+Figure 18 and the analysis surrounding question 3 is unfortunately very lacking. While the lack of proper data meant you couldn't answer your original question, it would have been good to investigate the location of these speed cameras in relation to crash locations. That is, plot both of them on the map and look for any areas where there are a lot of crashes but no speed cameras.
+","The scatterplots (Figures 8, 9, and 10) should be line charts instead, snce you're working with time series data. This is also important as right now there appears to be sudden spikes/drops in Figure 9, but I can't tell if this is because of a data error or if they're two separate provinces.
+
+For your first question, what you're saying is unclear that care in Gyeongsangbuk-do is worse than Daegu, as it is very difficult to see from the two separate graphs. It would be more appropriate to calculate the ratio between those recovered vs died, to then easily compare between each other.
+
+Figure 11 should really be normalised by population of each of those provinces, as a more populated area would naturally have more hospitals. Also, you could have looked at number of infected in each province per each hospital there are, to see how many patients each hospital would expect to care for on average. This would be to identify provinces that are lacking in capacity.
+
+Your maps should be using shapefiles to show the boundaries of each province, as compared to just showing some longitude/latitude position. From this, you can also create a choropleth map to easily see the infection rates of each province, which will make it much easier to see which parts of South Korea are affected and which neighbouring provinces can provide assistance.","You need to give more justification as to why you only pick those five countries. There being too many countries is not a valid excuse from the get-go, as you can always aggregate these by some category such as region or continent. Focusing on a select group of countries is fine but only if these are relevant to your exploration (e.g., focusing on a specific cluster of countries based on some interesting criteria after seeing all of them on a graph).
+
+For Figures 2 and 4, a boxplot is not a good choice of visualisation as it is time series data you are working with. Boxplots are used to view the distribution of values along a single dimension, rather than seeing how the values change over time (which is what a visualisation like Figure 1 shows).
+
+In page 5, it would have been better to visualise healthcare spending as a proportion of income. You will most likely need to calculate this value, but it will provide a much clearer picture of percentage of income spent on health, which while you provide a number of 10%, having a visualisation which shows all of this will give more information.
+
+For your regression line scatterplots, you seem to draw the wrong conclusion from them. These mostly indicate that as GDP increases, healthcare spending increases as well. You could say that government spending is more volatile than that of personal spending (hence a lower coefficient), but this is also fairly obvious from Figure 5.
+
+You go into no detail for question 3. This is a shame as your project is somewhat motivated by COVID-19 but you don't derive any interesting things from it.","The way you've done your analysis is... interesting. The biggest problem that I can see is that due to this tally system that you're using, you analyse the data in such a way that is almost too structured, meaning you don't observe any nuances in the data. Moreover, the choice of each visualisation that you've used appears to essentially be meaningless, as you simply take the top three and bottom three values in an ordered list to put in your table in Figure 2.
+
+In fact, you do allude to this at the end of your conclusion, by saying ""we see a trend in slightly more exciting years ahead from 2016 on with more different race winners and pole position takers."" Insights like these are only really feasible with data visualisation, and is what you should've focused on more with the kitchen sink of visualisations you've provided in section 3.
+
+While you gain marks for being quite complete in your analysis (i.e., considering all of these different sub-questions), you also lose marks for not using data visualisations in an appropriate manner.
+
+In short, while your process is a very objective and perfectly valid way of analysing data, it isn't really the goal of this assignment (let alone the unit).","You don't seem to actually use any of Figure 8 to 14 for your analysis, as in you don't mention any insights found in these visualisations (other than Melbourne CBD being the highest). Seems odd not to at least compare the average house price vs crime rate on the same line chart to see how they compare to each other.
+
+While your map (particularly Figure 16) shows off this relationship actually quite well, you never seem to consider change over time for any of your Shiny applications, even though you include the dropdown box. It would be good to include this. Additionally, the choice of using the skull may be effective when presenting your findings in the Visualisation Project (although in general it's been found that pictorial representations have little effect on understandability), it might not be as appropriate here, since it's hard to compare the shape of a skull vs a perfect circle.","Figure 1 is a dot density map, not a bubble map. Otherwise the figure is quite good, but it would have been useful to facet by each of the three accident severities you had (fatal, serious, slight) in order to more accurately view each of their individual distributions, whereby you only really say that it is ""kind of average"".
+
+Figure 2 is good, although I don't agree that all types of accidents see a decrease in accidents during April. More specifically, fatal accidents appear to be roughly the same throughout the entire year, otherwise your observations seem valid for the other two severity types.
+
+For the purposes of your data visualisations (and especially for the Data Visualisation Project), it is important to replace these numeric categorical values with their actual text values using the lookup table. You've done so in your explanation which is good, just make sure to do this in your visualisations as well.
+
+Also I'd be wary about making some of the conclusions that you did. You've stated that accidents in ""objective conditions"" (I assume you mean diificult conditions) are less likely to happen, although this is also because there are not only less people driving in these conditions (more people driving during the day than at night), but also these extreme conditions would be less common than normal conditions.
+
+Treemaps are not strictly the best visualisation to use for question 3, as tree maps are a hierarchical type visualisation. It would make more sense however if you enforced this hierarchy in the visualisation. That is, make sure that motorcycles are all groupedtogether, all types of cars are grouped together, etc.
+
+Question 4 is well done, but look into using fill rather than colour in ggplot2.","Your density plots are good.
+
+Your scatterplots comparing price and reviews are fine, although you should reduce the size of the points to make it easier to see each individual value. Additionally, considering your main conclusion from this is that entire home/apartments are at a higher price range than the rest, it would've been quite interesting to see what the outlier in private room is (is it a private room in a penthouse or something else?).
+
+You should also have considered the distribution of the points for your scatterplots, rather than just the R-value. Because you are using a log scale (which in and of itself is fine), the actual data is long-tailed, meaning that peaks and then trails off for a long distance as the x-value increases. This is a characteristic that you should have identified in your analysis, that there are a still a lot of AirBnbs beyond the main ""clump"", but these prices become quite spread apart.
+
+For your maps, the one for the train stations is fairly well done, although ideally you would show the boundaries of these neighbourhoods rather than just showing a single point. The one showing taxis is inherently misleading, as it is obvious that all of the taxi trips occuring in Manhattan would overshow everything else (it's like comparing the income of you and your friends vs Jeff Bezos on a graph, everything else looks small in comparison). You should have focused on these top 20 neighbourhoods, in which case you can easily plot all AirBnbs as well. This would let you see if taxi trips are fairly distributed even within these neighbourhoods, or if they're concentrated around places where there are AirBnbs.","I'm really suspicious of the sudden drop in GDP that you show in Figure 9, which seems more like an error in your dataset. I've tried looking for the original dataset that you used from the World Bank website, and can only find data up to 2018, which leads me to believe the 2019 data is either incorrect, or sourced from a different website whereby this data may be incomplete. For the rest of the report however I'm making the assumption that the data is correct.
+
+Figure 10 is not great at showing the relationship between GDP and unemployment, particularly due due to the line ofr GDP_value being somehow very different than that in Figure 9, most likely due to the different scale that you've used. It's only possible to see what you mean when comparing both figures simultaneously.
+
+Figure 11 and its accompanying analysis is quite good.
+
+A treemap for Figure 12 is not the most appropriate visualisation as these are typically used for hierarchical data. As you are only looking for top 10 countries, a bar chart would have been more appropriate. In a way, your data does show this hierarchy (i.e., countries in different regions of the Earth), but you haven't done this grouping. Also it appears that you've left in some locations that aren't countries, but are instead geographic regions instead (e.g., Middle East & North Africa). These should have been removed during data checking and cleaning.
+
+While question 3 was answered fairly well, you could have also plotted each country's unemployment gap against their GDP per capita, to see if there is a trend between these two variables, rather than purely focusing on the top 15 countries.
+",,"Question 1 is done very well from a technical standpoint. The use of the log-log scale (as well as the consideration of its use) is good. However your explanation of normalising by capita is worded strangely, as total GDP/CO2 emission doesn't take population into account (rather than does). Also, while what you've done still technically answers your stated question, there is a huge missed opportunity for further analysis that goes beyond correlation coefficient. For example, you focus on two countries, China and the United States, but make no mention about how in reality, their CO2 production per capita is not too unlike other countries. Furthermore, as your project is motivated by climate change, there's no mention as to the types of countries whose GDPs seem to rely a lot on CO2 production versus those who aren't, such as Qatar obviously having a huge reliance on CO2 as compared to Liechtenstein, who has likely divested away from manufacturing/production.
+
+Question 2 is also well done. While it is likely that you did pie charts for the sake of visualisation variety, it would've ultimately been better to use a proportional area/stacked-bar chart (similar to 4.1.3) as this inherently shows more information. In the case of 4.1.3 specifically, since you're looking at how each individual sector changes over time, it would've been much better to use small-multiples instead, as it is only feasible to compare the bottom stack accurately. This will let you prevent having to use hedging words like ""seem"" a lot, whereby I disagree in that Other industrial combustion has been going up over time as well. Ultimately, what you've done is acceptable, but there's a slightly better option for your specific use case.
+
+Moreover, you don't explore how these sectors are broken down by country. While I treat this more as ""extra work"" rather than a core part of your question (unlike what I described for quesiton 1), it may have been insightful to investigate a few example countries to see how they are broken down by sector. For example, is Qatar purely focused on the Power Industry? With Liechtenstein having such low CO2 emissions, what makes them different from other countries? Digging deeper into insights like these can give your exploration more meaning and make it a lot more interesting.
+
+I have no major complaints with how you handled question 3. While the line charts are very messy, the use of colour does still allow for these ""layers"" of income groups / regions to appear. Aggregating these values to show averages for each region, or using faceted small-muliples for each category may have improved readability, but this would be a larger concern for the Data Visualisation Project.","The logic behind the first question was done well, but what you've done is quite a long-about way of saying ""I normalised the number of pedestrian crashes first by area of state, then by population"". The conclusions you make from this analysis are done well, although you should have shown these calculated values using some visualisation (such as a bar chart) rather than the massive table which is harder to read. While I understand you want to demonstrate the process in which you calculated these values, it's quite a common procedure and therefore doesn't need to be explained in this level of detail.
+
+For your second question, the sunrise and sunset values would change drastically depending on season and daylight savings (consider how our sunset changes from 5pm in the winter to 8pm in the summer). What you have wouldn't be very accurate, whereby it would be ideal to have some script which determines if each crash happened during the day or at night, looking up some other dataset for these timings. Also, while what you have in Figure 6 is certainly interesting, you strongly base it around the notion of light, whereas there may very well be a simpler reason for this: the number of crashes for each time period follows the number of cars driving around in each time period. That is, the more cars there are on the road, the more crashes there are.
+
+Figure 8 would be better as a bar chart.
+
+The second part of your second question aren't answered that well. The idea here isn't whether or not there are a lot of traffic signals in the same borough as the crashes, but rather was the crash a result of there not being a traffic signal. Alternatively, you could have explored how the introduction of more traffic signals reduced pedestrian crashes, as the more signals there are the more likely someone will use it, but this requires the exact dates of when these signals were installed which I'm not sure if you have.
+
+Your analysis for the third question is very basic, but admittedly is all you really needed to answer the question. Perhaps further exploration could have explored in which of these ""Actions"" were there the most fatal/non-fatal pedestrian outcomes, but this wasn't necessary for your case. Well done."
+Feedback - Degree of difficulty,"While your use of nonconventional visualisations (such as a SPLOM) and complexity in your data wrangling increased difficulty, there were many insightful conclusions that you had missed for multiple questions whereby you simply just stated what was shown in the visualisation.","You gained a lot of marks due to going through the trouble of extracting and cleaning actual real-world data, as well as providing quite insightful findings relevant to your chosen use case. However, you suffer a bit from using very simple visualisations and not exploring any bit beyond your proposed questions.","It's obvious that you spent a lot of time wrangling and reformatting your data to be fit for analysis. However, it would have been good to focus more on the exploration and derive more meaningful insights.",The use of textual analysis helped quite a bit. However you could definitely expand on much of the exploration to go further in-depth (as per above feedback).,"You had quite a number of datasets which was good. However, your analysis could have been far more insightful (see above feedback) and used other more complex visualisations such as maps.",You had to collate together a lot of datasets from the provided website which contributed to most of the difficulty.,"You had some fairly insightful conclusions and complicated dataset you needed to wrangle, however it's a shame not to broaden your analysis to include the other datasets found in the link you provided (particularly the individual reviews). These could have revealed more interesting insights, such as if sentiment matched the actual review, or if many reviews of lower rated apps are, as you say, ""honest review of such applications to prevent other from downloading it"".","You had fairly insightful conclusions and the way you conducted your exploration to find deeper insights in the data was good. However, being able to take into account locations of speed cameras versus accidents, either through some heuristic of distance from nearest speed camera or visually through the map, would've helped greatly.","Because you don't reference your datasets, I cannot tell how complex they are. While your analysis is insightful, they aren't backed up by the visualisations as it is oftentimes hard to see what you are referring to. In addition, you could have done more complex analysis that would have earned you more difficulty marks, such as the choropleth map stated above.","It's hard to say how hard your data wrangling process was without more details about it. Additionally, your insights are very limited as they only relate to the chosen five countries, and don't consider other aspects such as geographical region.","As previously mentioned, you gained difficulty marks for being quite thorough in exploring many different sub-questions, but further marks cannot be allocated as not much focus was put on your visualisations.","Most of these marks came from the use of Shiny, and the difficult wrangling process of the datasets you had. However, deeper insights into your visualisations would have been beneficial to this.","You gained a lot of marks for having complex (but still appropriate) visualisations, such as the map, area chart, and tree map. However your conclusion is not particularly insightful since it's not strictly based off of your analysis but moreso ""common knowledge"".","You gained a lot of difficulty marks for needing to retrieve and process a lot of the data from GCP, as well as using the necessary shapefiles. However I feel that your analysis could've been deeper to explore different quirks in the data.","Most of your difficulty marks came from the use of more complex visualisations (e.g., maps), as well as having quite insightful findings through your references to the literature.",,"Your difficulty marks mainly were a result of using a fair number of datasets requiring a fair amount of additional data wrangling to get working, as well as the use of fairly complex visualisations and axes scales. However a big part that was missing was the derivation of deeper and/or more insightful findings, as your conclusion largely falls under common knowledge.","You received difficulty marks for having spatial data and needing to get the locations of each streetlight manually. However, you could have also added in additional datasets (e.g., traffic statistics, sunrise/sunset times), which may have provided more interesting insights and deepened your overall analysis."
+Feedback - Written Report,Report was well written and didn't miss anything important.,"Minor comment: it is convention to define initialisms in brackets if they're not common knowledge, as I read SME as subject-matter expert rather than small and medium-sized enterprises.
+
+There are also some repeated spelling mistakes that got annoying really quickly, such as ""boarder"" and ""leant"".
+
+Your maps are so low quality to the point where it's actually hard to read the legend. Your bar charts don't suffer from this same issue however.
+
+While having your figures and text in separate parts of the report is still fine, it would be good to properly label all of them. For example, start of question 2 refers to ""both graphs"" with different orientations, but I don't know which ones you're referring to.","A few of your figure numbers are swapped (Figures 8 and 9).
+
+Some of your conclusion points seem to reference brand new insights which weren't mentioned and/or visible beforehand, such as comedy/romance being second most popular, or that Brazil somehow has equal lowest movies rather than it's neighbour Argentina which share the same colour in the choropleth map.","There are some (potentially cultural) ways in which you wrote which are ""incorrect"":
+- Avoid using lakh for those not from India
+- 19th century is the years from 1800 to 1899, 20th century those 1900 to 1999, etc.
+
+Otherwise the report was overall well written.","Please assign each figure its own number (i.e., Figure 1, Figure 2, etc.). Everything else is good, barring some recurring spelling mistakes (e.g., ""arcitivity"").","You need to put subsection headings for both questions that you have, since it's hard to track what relates to which question. Everything else is good.","There are some grammatical mistakes here and there, but otherwise the report is structured well and is quite readable.","Try and avoid just showing tables of numbers instead of visualisations when presenting your findings, as these are inherently more difficult to read and understand (this is fine for details on demand).","The quality of writing is not particularly great, and there's a lot of grammatical errors and disjointed sentences that makes it hard to read. You should also include subsections to indicate which parts of your exploration relate to which questions. Lastly, you don't state what your datasets are and where you've sourced them, which is important for the report to include a bibliography.","You should include subsections to indicate which parts of your exploration relate to which questions. Otherwise, your report was well structured.","The quality of writing and formatting of the report as a whole is really good, but the structure is quite unorthodox and does not focus enough on the data visualisation part of the assignment.","You should include subsections to indicate which parts of your exploration relate to which questions. Otherwise, your report was well structured.","While there's a number of grammatical issues, the report was still understandable and was overall well structured.","Be careful with some of your wording as they get a bit confusing sometimes, e.g., ""The price ranging from around 2000 USD to 10 USD... Most Airbnb has a price ranging from 32 USD to 256 USD"" it's took a while to realise that you meant to minimim and maximum prices were $10 and $2000.
+
+Also, avoid putting figures that are important in your exploration in the appendix. The appendix is fine for figures that supplement what's already there, in that the reader won't lose any information if they don't refer to it. Right now it breaks the flow and readability when forced to look at the appendix to understand what's being referred to. This is also annoying as in some cases it's hard to tell whether or not you're referring to something that's in the appendix or a figure in the main body of the report.
+
+","The report was well written as a whole, but be careful about some figure reference numbers.",,"As a whole, the report was very easy to read, with the appendices being properly used. There were numerous spelling mistakes, but this didn't detract from the understandability of the report.","Please include proper section numbers for each question, or at least use a proper heading font for it. Otherwise everything else is good."
+Feedback - Other,,,,,,,,"Please include subsections for each of your questions such that it is easier to keep track of what you're exploring. Also, you oftentimes provide very brief explanations of visualisations whereby you could have gone into much more detail about them.",,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Consolidated Feedback,"---DATA CHECKING AND WRANGLING---
+It's unclear how you merged the two datasets together, particularly when taking to account time (were there multiple rows for each sensor?). Additionally, while your checking of the notes column was fine, you didn't appear to have checked the other dataset (pedestrian counts) for errors.
+
+---DATA EXPLORATION---
+I struggle to see some of the observations you've stated. For example, it's not conclusive that pedestrian volume in highest in December in the heat map, in fact it looks mostly the same. A different visualisation such as a line chart would have been more appropriate.
+
+The use of SUM for the hourly pedestrian counts is questionable. Are you certain that for each and every sensor, they have the same number of hourly samples? You did not check for this, in which case AVG would be more appropriate.
+
+---DEGREE OF DIFFICULTY---
+Your project's difficulty was fine, but more insightful conclusions may have been possible when considering other types of data (e.g. more carefully considering train station locations beyond just Flinder's St).
+
+---WRITTEN REPORT---
+You needed to better emphasise what questions you were planning on answering, as your exploration section is not well structured and arbitrarily jumps from analysis to analysis.","---DATA CHECKING AND WRANGLING---
+What is the exact reason for removing countries which did not introduce lockdown measures? Would this not enable you to compare against countries who did not do anything at all? Otherwise, great job on this section.
+
+---DATA EXPLORATION---
+Figure 2 would be better as a line chart than a scatterplot, but the difference in this case is negligible.
+
+Figure 3 has a few problems. (1) What does ""Logarithmic Value of Cases"" even mean? (2) Comparing rate instead of raw count would be more appropriate given the fact that increase per day would naturally skew towards later dates; and (3) There's no normalisation meaning that countries who implemented lockdowns 1 to 2 days before your data stops would naturally have much lower number of new cases.
+
+For your analysis using Google's mobility data, you needed to better explain what the data itself means as early as possible. What does the data between the range -100 to 100 mean, is it a percentage? What does ""Residential Percent Change"" mean? You need to use layman's terms and/or explain the data such that the reader is not forced to look at the source's data dictionary. I only could properly get a rough idea of what you're showing at Figure 6.
+
+---DEGREE OF DIFFICULTY---
+It was good that you took a lot of time to consider many aspects of your data, and also exploring other tangential parts as well (such as focusing on just Australia).
+
+---WRITTEN REPORT---
+Your report was well structured, the main issue is that you need to better explain what some visualisations mean. Also, I'd be more considerate with the use of boldface and highlighting if I were you (you use bold for some numbers but not others).
+
+A very minor candid comment: you seem to have forgotten about the Australian bushfires when you say the decade started off great.","---DATA CHECKING AND WRANGLING---
+Some of your decisions in your data scraping are questionable. Why only 8pm and before rather than the entire day? Why remove hashtags when these are an essental part of Twitter? Also 1000 tweets a day is very low, unless you only chose tweets with a specific condition in which case you need to clearly mention that in your report.
+
+Everything else for data wrangling and checking is well done.
+
+---DATA EXPLORATION---
+As mentioned before, you could have also looked at the frequency of hashtags used to further complete your analysis.
+
+What does each row in your topic modelling visualisations mean? I assume each is a separate tweet, in which case you should have aggregated these into a single visualisation so that it's easy to see the most common topics being talked about.
+
+What tool did you use for the sentiment analysis? It is important that this was done properly rather than you manually labelling each tweet. 
+
+The bar chart for sentiment analysis needs to properly state what each ""Time Period"" is, not to mention how you've decided these intervals. Also, it's hard to compare the small multiples together since the y-axis scales are not the same. Lastly, a line chart would work better here to strongly imply that it's showing change over time.
+
+---DEGREE OF DIFFICULTY---
+You gained significant difficulty marks due to the use of both data scraping and textual data. However, I advise you to spend more time on your data visualisations to ensure they clearly communicate what you're trying to show.
+
+---WRITTEN REPORT---
+Some explanations are difficult to understand due to incorrect grammar and there being many sentence fragments.
+
+Also your font changes throughout your report, to which I assume is because the explanation of LDA was copy-pasted without fixing the font back to what it originally was.","---DATA CHECKING AND WRANGLING---
+Nothing to criticise here, very well done.
+
+---DATA EXPLORATION---
+While the existing insights are certainly very interesting, your scatterplots in Figures 8 and 9 are problematic. By giving each and every trip its own mark, overplotting becomes a huge problem that skews your perception of the data. What this means is that there may be only 1000 trips with tips of $3 and higher, but due to overplotting it looks exactly the same as the remaining 849,000 trips with $3 and less. In this case, you've only confidently shown that there exists people who are willing to tip high amounts no matter the time of day, rather than people in general tipping more or less at certain times. A simple aggregation by averaging would have resolved this.
+
+Same thing goes for your other scatterplots, but they aren't as badly affected.
+
+Your maps for pickup locations are good, but it's a shame to not also consider dropoff locations, as this will imply popular places that people want to get to. This would also be a good reason to include all of the other boroughs as well, particularly to see if many people are taxi-ing in and out of Manhattan for work.
+
+---DEGREE OF DIFFICULTY---
+Most of your difficulty came from dealing with shapefiles and the 5 hour wait, as well as the quality of insights derived from your exploration (although I fear this may be compromised due to aforementioned issues, I suggest redoing them for the Data Visualisation Project).
+
+---WRITTEN REPORT---
+Some references are wrong (e.g., second line in Transformations and Operations, Empire State Building [7] should be [5]), but otherwise the report was well written and easy to follow.","---DATA CHECKING AND WRANGLING---
+I don't agree with your choice to remove the outliers in your CO2 per capita dataset this early on. You make a huge assumption by concluding it to be due to low population, where there could instead be many reasons for it (e.g., high industrialism, export-based economy). Frankly, there is no reason to be removing this information from your dataset at this stage as you are only limiting your analysis. Perhaps in later parts you can filter out these countries to focus on specific regions, but you don't get this option by deleting data. This likely would have also influnced any plots where you calculate the total amount of emissions worldwide.
+
+Otherwise, everything else looks good.
+
+---DATA EXPLORATION---
+Why is the Mean Temperature within the range -0.2 to 0.9 in your bar + line chart? A Google search says it's more around 14 degrees Celsius. Unless you are referring to temperature anomaly, i.e., the difference in temperature from the average, in which case you need to specify these details more clearly lest they paint an improper message. This issue persists in all of your visualisations.
+
+Minor comment is that your scatterplots of Mean Temperature vs CO2/NO/CH4 should be flipped, that is the emissions are your independent variable (x-axis) as you want to see how these influence temperature.
+
+How are methane and nitrogen-oxide not strongly correlated when you state that their correlation coefficients are 0.88 and 0.85? While it is not as high as carbon-dioxide, the correlation is still quite high (values above 0.7 are typically considered ""strong""). Also you should be careful on how you word your concluding statements, in that you cannot confidently state that global warming is only caused by one greenhouse gas.
+
+A problem with your graphs comparing tempature vs sea level/glaciers is caused by the use of two separate y-axis scales. While this in and of itself is not an issue, it can be misleading (which impacted your analysis) as the steepness of the slope is NOT a valid way to compare rate of change. Imagine you changed the y-axis range of sea-level to be between -1000 and 1000, suddenly the slope is very flat and therefore it is no longer double that of temperature (despite the data still being the same)! In this case, it would be better to calculate and compare percentage change year on year instead. Your conclusion is still technically correct however, since there is still a postive trend.
+
+Be careful using words such as ""exponentially"" (in your natural disasters every year), as it implies an exponential growth whereas the barchart doesn't strictly appear to be exponential.
+
+Your choropleth maps are good and paint a clear picture, although a nitpick is that I'd shift the map to the left such that North America doesn't get cut-off, as it almost looks like they're two separate regions/countries
+
+---DEGREE OF DIFFICULTY---
+You have a lot of datasets which made your project difficult.
+
+---WRITTEN REPORT---
+You appear to have random sentences left around the place. For example, ""Average cumulative mass balance of reference Glaciers worldwide"" is followed by data not even referring to glaciers. The use of bold to highlight main findings is great though.","---DATA CHECKING AND WRANGLING---
+I don't agree with dropping rows with low popularity/scores from the dataset itself as these are arbitrarily chosen (8/10 seems like a very high threshold). You can always filter these out within the visualisation itself (e.g., filter out outliers to more clearly see the rest), but ideally you shouldn't do it in the main datasets.
+
+You also don't report on any sort of checking beyond 0's and NULL values, and filtering out data (which isn't checking for errors). Were there any scores somehow above 10? Were there any anime with an unrealistic number of members? Are all of the ranks unique?
+
+
+---DATA EXPLORATION---
+While Figure 3 coincidentally suited your purposes, it's more ideal to use a bar chart showing counts of the number of anime in each age rating, particularly due to concerns of overplotting (there could hypothetically be 1000+ anime all rated 8.5 in the R+ category!!!).
+
+Your ""simulate correlation"" is nonsensical to me. What is upward and downward correlation? And how is it only for R-17+ and not PG-13 as well, considering that's the second category that is most common?
+
+Figures 5 to 8 are all examining distribution, in which case either a histogram or a boxplot would be more appropriate than a scatterplot (once again, due to overplotting). This also has a big impact on your conclusions, as all you state are which factors have the highest scores, or which one has ""the most density"". Plotting distributions using a histogram/boxplot would reveal more insights in your data (e.g., What is the median score? Are scores normally distributed or is it farily even?).
+
+You have solely focused on what makes anime good. It is a shame not to consider what makes anime bad as well (e.g., what are the genres which are the least popular?), as this would definitely fall under the scope of your questions (particularly the second).
+
+
+---DEGREE OF DIFFICULTY---
+You had multiple datasets and had to wrangle them to a fair extent. However, you only used scatterplots whereby using a wider range of visualisation types would have aided your exploration.
+
+---WRITTEN REPORT---
+Your visualisations are very pixelated and low quality. Look into using something like ggsave() in the future for higher DPI images.","---DATA CHECKING AND WRANGLING---
+Applying transformations to the data (such as your logarithmic transformation) is better done right before you visualise them, as modifying the original dataset is typically a bad thing as it limits flexibility (what if you want to visualise raw values next time?).
+
+---DATA EXPLORATION---
+There seems to be a sudden change in quality between the visualisations you created for Question 1 and the rest. Question 1's visualisations are very well done and I cannot fault them at all. However, the rest of the visualisations look remarkably different despite also being made in ggplot. In addition, some of these visualisations are redundant. The map doesn't relate to your analysis at all (there's no consideration on how country location impacts infection), and even though you've identified the top 20 countries to ""focus your analysis on"", the following scatterplots show more than 20 countries on them. This is not to say that your process was incorrect, but their inclusion is not strictly appropriate nor relevant.
+
+---DEGREE OF DIFFICULTY---
+Much of the difficulty came from the complexity of your visualisations, such as the use of logarithmic scales and the Leaflet map.
+
+---WRITTEN REPORT---
+Your visualisations show a lot of interesting things which you don't seem to comment on, as you quickly go from one visualisation to the next, barely giving any detail. For example, the fact that Figure 6 has the USA peak at 7% but drop back down suddenly, or that you barely refer to your map at all. It's not enough for you alone to get ""an overall idea of the spread of cases and deaths throughout the world"" since I can't read your mind.","---DATA CHECKING AND WRANGLING---
+Not much to say here, well done.
+
+---DATA EXPLORATION---
+Are oil barrel prices adjusted for inflation? This would have a noticeable impact in your analysis. Similarly, you should have also considered calculating oil production by capita to more accurately compare countries/regions together.
+
+I fail to see how Figures 8 and 9 have a ""weak correlation"" where in fact they look nothing alike. Even the dips and rises you explicitly mention in the text don't align at all.
+
+You could (and should) have focused more on the geospatial portion of your data. You have some of this with your choropleth map, but you don't go into any detail at all with it.
+
+---DEGREE OF DIFFICULTY---
+Your project mostly focused around finding trends in data. While your Shiny map is considered ""difficult"", it's obvious that it had zero impact on your actual analysis, and that it's there as a way to make up difficulty marks.
+
+---WRITTEN REPORT---
+You need to put figure numbers in your paragraphs. Because the text and images are separated, it's difficult to understand which visualisations you are referring to (Question 3 is a MAJOR offender).
+
+Much of what you've written in the exploration section is not useful as a reader, both because (1) it is extremely difficult to keep track of specific years and/or values while needing to scroll down a page (or four) to see the relevant visualisation; and (2) all of these observations I can easily see for myself. You need to give higher level insights that are easier to communicate and be understood (e.g., oil production is dominated by 3 countries; outside of the the first half of the 2000s, oil prices are prone to sudden spikes and drops rather than steady increases/decreases). This is also important as these types of insights are what you'll be communicating in the Data Visualisation Project.
+
+Lastly, you didn't include a reflection section.","---DATA CHECKING AND WRANGLING---
+How did you know the data was clean and correct? Just because it is ""official"" doesn't mean that someone didn't make a mistake entering the data. If you actually did check, it is important that you specify this process.
+
+---DATA EXPLORATION---
+While I appreciate the creativity in Figure 5, it doesn't show the actual number of crashes in the day vs night.
+
+Saying that it is ""relatively safer in the night rather than in the day for the pedestrian"" fails to consider the fact that there are far more people walking around during the day than at night.
+
+Figure 6 does not show the crashes that well. If you have improved this view you could have garnered much more insights from it:
+- For readers who are unfamiliar with the ACT, where is Canberra located? You should use icons to show landmarks
+- What regions are suburban, cities, or rural? You should use a different tileset to be able to visually analyse this information
+- Just how many crashes are located in this central location? Overplotting means that it just becomes a blob whereby there could either be 20 crashes or 1000 crashes in that region. Using something like a density map would solve this issue
+- Which crashes were during the day vs. during the night? Colour coding the points would show this information
+
+---DEGREE OF DIFFICULTY---
+The fact that you had to calculate day/night and you did extra exploration was good.
+
+---WRITTEN REPORT---
+Be more careful in how you word your sentences. For example, ""In each crash record, there were two pedestrians at most related to this crash, most affected pedestrians number was 1."" tells me that crashes have at most two people involved, but at most 1 pedestrian was affected, which makes no sense.","---DATA CHECKING AND WRANGLING---
+Very comprehensive, well done.
+
+---DATA EXPLORATION---
+For a lot of your bar charts, a stacked bar chart would work better instead. This is mainly because succeeded + failed = attempted.
+
+Figures 15, 16 and 17 are not rates per year as they are raw counts.
+
+There are a number of issues with the first half of question 3:
+- Figures 18 and 19 would have been better suited as scatterplot matrices instead since it would be good to see the how the values are distributed
+- You are doubling up on some variables, namely succeeded/successPercentage and failed/failurePercentage
+- What does batteryVoltage even mean?
+- How is windDirection being considered here, a value between 0 to 360?
+- How does negative correlation between batteryVoltage and temperature (or even temperature and humidity) have to do with success rate? Since these are pairwise correlations, they don't take into account success rate. Otherwise it's like saying the negative correlation between the temperature of my AC and my car's fuel efficiency has an impact on my climb's success rate
+
+Figure 20 should be a line chart, not a scatterplot if it is showing time series data. Otherwise, your analysis of it is good.
+
+
+---DEGREE OF DIFFICULTY---
+
+
+---WRITTEN REPORT---
+Your report was easy to read and follow.","---DATA CHECKING AND WRANGLING---
+Section 3.2 is strange since factors in R essentially does this for you, however you yourself at least acknowledged that this step was futile.
+
+Everything else looks good.
+
+---DATA EXPLORATION---
+Your word cloud is good, but it would have also been good to compare them in a bar chart, and to also identify what other products there were (your question does specify most reviewed products with an s!). In other words, see what was the second or third most reviewed category of products and how far they differ from tablets (e.g., Are they also handheld devices? Are they for entertainment or productivity purposes?).
+
+There seems to be an over-represenatation of positive sentiment reviews versus negative ones. Did you check a sample of these to ensure the sentiment was accurately labelled? The way you've described it implies an error in your process, in that the result of the function provides some floating point value, but your if-else condition only considers integers.
+
+Using SUM in section 4.3 is problematic since it's heavily dependent on the number of reviews. A sum of 1000 could either mean 200 glowing 5-star reviews or 1000 1-star reviews. If the goal is to measure both ratings as well as popularity (i.e., how much of the item was bought), it would be better to separate this out into two visualisations: one for average rating, and another for total number of reviews.
+
+---DEGREE OF DIFFICULTY---
+Your results were insightful and the use of sentiment analysis helped a lot. However it would've been even better if you could do some further analysis on the reviews themselves, such as what are the major complaints and/or praises of the products.
+
+---WRITTEN REPORT---
+The report was very well structured and written.","---DATA CHECKING AND WRANGLING---
+Your data checking is very minimal. You haven't checked for any other issues such as data entry errors.
+
+Replacing missing values with 0 is questionable, as if the given estuary at that given time doesn't have a value, it's more accurate to say that there's no data that exists there rather than putting a 0 (which will skew aggregations such as averages).
+
+---DATA EXPLORATION---
+The way you have your line charts set up is that you've created many small multiples where each one shows a unique date (also shown by the short handle of the scroll bar at the bottom). This is extremely cumbersome, and so I'm unsure how you were able to derive most of your findings.
+
+How are you inferring bushfire events for Graph 5? Sudden spikes like you've shown appear to be data entry errors more than anything (which you should've addressed in data checking). If this range of data was chosen specifically because it was during a bushfire, you needed to have made that clear in your report. In fact, you've done this in Graph 6. If the intention was to compare periods when there were bushfires vs when there weren't, then it would be better to put these side by side one another.
+
+You'ved summed the DissolvedOxygen and ""Tempertature"" values in Graph 9, where it should be an average instead. This is a big problem because the more values that were recorded means the larger it would appear on your visualisation. However note that even if you did use average, the fact that you've replaced NULL values with 0 means that this average will be skewed towards 0.
+
+---DEGREE OF DIFFICULTY---
+Your explanation of your analysis and findings was quite detailed.
+
+---WRITTEN REPORT---
+Try not to use Tableau terminology in your report. That is, even though Tableau calls them rows and columns, they're still x-axis, y-axis, colour by, facet by, etc.
+
+Some of your headings and ordering of tasks don't make sense. Why is 4.1.3 titled Data exploration? Why do you find outliers for 4.1.2 after analysing the data","---DATA CHECKING AND WRANGLING---
+Your data checking seems to be very minimal. Considering you started with 4 datasets, it would have been good to include the checks you did on those as well, even if there were no issues found.
+
+---DATA EXPLORATION---
+The word cloud in Figure 13 is not the best way to show the most contributing schools, since many of them are very similar in size. Using a bar chart would have been more appropriate. This would also let you derive more insights as well, such as how much more players did the top school have in contrast to the average, or do many schools have equal amounts of players versus a few schools contribute the vast majority.
+
+Figures 14 and 15 don't say much beyond which states have the most schools. It would be much better to compare the average number of players per school in the state, or even just the raw number of players from that state. Likewise, Figure 16 would be good to normalise by players per school to get a better picture of how strong of a contribution an average school has.
+
+There's no yellow line in Figure 17 (unless you mean orange).
+
+
+---DEGREE OF DIFFICULTY---
+Getting the location information in Figure 8, your use of maps, and the use of radar charts helped quite a bit.
+
+---WRITTEN REPORT---
+Your report was generally well written, although having subsections for each of the questions you answered during the exploration part would make things clearer.",,,,,
