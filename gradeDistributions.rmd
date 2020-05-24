@@ -1,0 +1,62 @@
+---
+title: "grades_vis"
+author: "Nick Spyrison"
+date: "24/05/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+## Load packages here.
+library(knitr)
+library(tidyverse)
+library(plotly)
+## chunk options, lite:
+knitr::opts_chunk$set(
+  message   = F, warning = F, error = F,
+  results   = "asis",                # Opts: "asis", "markup", "hold", "hide"
+  fig.align = "center",              # Opts: "left", "right", "center", "default"
+  fig.width = 8, fig.height = 5,
+  out.width = "100%",
+  fig.pos   = "h", out.extra   = "", # Figures forced closer to chunk location.
+  collapse  = TRUE, cache = FALSE, cache.lazy  = FALSE
+)
+```
+
+The primary audiance of this document is the students of Nick's tutorials. This analysis was done in R on and Rmarkdown document. Visuals were produced in `ggplot2`, and limited interaction may be added via `plotly::ggplot(x)`.
+
+## Exploring grades from the Exploration Project (FIT5147 S1 2020)
+
+In this document I explore a couple aspects of the distribution of grades from the Exploration Project. The grades of the project comprise 33% of the total grade of the course. I have a couple of aspects I want to check, specifically:
+
+__1) How do the distributions of grades differ accross tutors?__
+    __- Based on the Marking Consistency meeting, Nick seemed to give more marks than average on the 2 example projects; did Nick tend to give more marks of the actual grade of different projects?__
+__2) Is there a correlation between the number of Nick's tuttorial attended and the Marks recieved?__
+   __- Add and interpret the slope of a linear trend.__
+   __- Add and interpret the R^2 of a linear trend.__
+
+These questions were thought of before any visualization or data collection was performed. This is best practice and formal statistical testing assumes this. Any divation from this results in unliable P-values and similar evaluations. Because we are primarily concerned about discribing and ranking distributions and simple regressions we may deviate from our initial questions if the need arises.
+
+To respect the privacy of everyone involved I will turn names of students and tutors into factors and refer to them by their integer numbers. After the data is cleaned and subset to the desired scope the grades will be normalized between 0 and 1 to further abscure precise grades while keeping their distribution in tact.
+
+
+## Datasets:
+
+### Project grades
+
+
+### Tutorial attendance
+
+
+
+## Wrangling the data:
+
+
+
+## 1) How do the distributions of grades differ accross tutors?
+
+
+
+## 2) Is there a correlation between the number of Nick's tuttorial attended and the Marks recieved?
+
+
+
